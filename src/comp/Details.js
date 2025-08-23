@@ -10,7 +10,7 @@ function Details(){
       {/* <Experience /> */}
       <Education />
       <Skills />
-      <Hobbies />
+      {/* <Hobbies /> */}
 
       
       

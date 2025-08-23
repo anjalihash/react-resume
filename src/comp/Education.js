@@ -29,7 +29,7 @@ function Education() {
   ]
 
   return (
-    <div>
+    <div class="col-md-6">
       <h3 class="experience-title">Education</h3>
 
       <div class="experience-wrapper">
