@@ -1,4 +1,4 @@
-
+import dp from '../dp.jpeg';
 function PictureAndName() {
 
     const FirstName = "Anjali";
@@ -8,7 +8,7 @@ function PictureAndName() {
         <div class="row d-felx felx-column align-items-center justify-content-center">
         <div class="col-sm-4 d-flex align-items-center justify-content-center align-self-stretch">
           <div class="picture-resume">
-            <span><img src="https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg" alt="" /></span>
+            <span><img src={dp} alt="" /></span>
             <svg version="1.1" viewBox="0 0 350 350">
 
               <defs>

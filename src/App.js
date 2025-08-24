@@ -3,6 +3,7 @@ import Intro from './comp/Intro';
 
 import Details from './comp/Details';
 import Experience from './comp/Experience';
+
 function App() {
   return (
     <div className="App">
@@ -10,7 +11,6 @@ function App() {
         <Intro />
         <Details />
         
-  <div class="clearfix"></div>
 </div>
     </div>
   );
